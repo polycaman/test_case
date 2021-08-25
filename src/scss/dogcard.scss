@@ -1,0 +1,82 @@
+.dogCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+
+    width: 200px; 
+    height: 325px;
+    background-color: #fff;
+
+    padding: 0rem 6rem 10rem;
+    margin: 20px;
+    border-radius: 25px;
+    
+    box-shadow: 0px 4px 6px 4px rgba(91,164,164,0.2);
+    &:hover{
+        box-shadow: 0px 4px 6px 4px rgba(50, 90, 90, 0.2);
+    }
+    
+    
+    
+    
+    
+    @media only screen and (max-width:375px){
+        flex-direction:column;
+        
+        width: 200px;
+        padding-bottom: 1rem;
+        margin-bottom: 2rem;
+    }
+ img{
+    width: 200px;
+    height:200px;
+    position: inherit;
+
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+ }
+
+
+ .cardTitle{
+    position: relative;
+    font-weight: 700;
+    color: var(--very-dark-greyish);
+    word-wrap: break-word;
+    font-size: 15px;
+    width: 180px;
+    text-align: center;
+ }
+
+ .cardAdditional{
+    margin-top: 0.5rem;
+    color: var(--dark-greyish);
+    font-size: 10px;
+    width: 200px;
+    text-align: center;
+}
+ .cardButtonPart{
+    margin-top: 0.7rem;
+    display: inherit;
+    width: 100px;
+    border: 1px solid var(--dark-green);
+    background-color: var(--dark-green);
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    white-space: nowrap;
+    &:hover{
+        border-color: var(--light-green);
+        background-color: var(--light-green);
+    }
+    
+    span{
+        font-weight: 300;
+        margin:auto; 
+        color: white; 
+    }
+    
+ }
+ 
+
+}
