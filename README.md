@@ -6,3 +6,5 @@ This project is a test case that i have finished.
 Please check src/App.js and src/components folder.
 Also the src/scss folder for the scss content.
 
+# Demo Link
+https://allscript.org/labs/testcase/
