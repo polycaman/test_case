@@ -1,0 +1,477 @@
+{
+    "parks": [
+      {
+        "id": "2J6e4mx3LguJWhlYyy6g",
+        "name": "Vorderes Rosental",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:08:58.232Z",
+        "location": [
+          51.351935,
+          12.360097
+        ],
+        "postcode": "04105",
+        "city": "Leipzig",
+        "address": "04105 Leipzig (Zentrum-Nordwest)",
+        "postcodeCity": "04105 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/lZedxGrGCIWTo0ypvaf8Ods38X23/RBgRrKC1xQnnHM6h"
+        ],
+        "distance": 1.1666446679420623
+      },
+      {
+        "id": "bDpaGYpQSqtzGcbam4PZ",
+        "name": "Palmengarten",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:00.743Z",
+        "location": [
+          51.3356164,
+          12.342845
+        ],
+        "postcode": "04229",
+        "city": "Leipzig",
+        "address": "04229 Leipzig (Altlindenau)",
+        "postcodeCity": "04229 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/9v55IzvotRUF9KNj"
+        ],
+        "distance": 1.6901793290159033
+      },
+      {
+        "id": "MxuTjGB7MXENq9usOTut",
+        "name": "Bayrischer Bahnhof",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:03.978Z",
+        "location": [
+          51.3290986,
+          12.380363
+        ],
+        "postcode": "04107",
+        "city": "Leipzig",
+        "address": "04107 Leipzig (Zentrum-Süd)",
+        "postcodeCity": "04107 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/M3aAw3WrqYjnHsn2"
+        ],
+        "distance": 1.7791214476854873
+      },
+      {
+        "id": "VDaWQPj51l5nGpdRbwXJ",
+        "name": "Weinligstraße",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:04.399Z",
+        "location": [
+          51.3589892,
+          12.360333
+        ],
+        "postcode": "04155",
+        "city": "Leipzig",
+        "address": "04155 Leipzig (Gohlis-Süd)",
+        "postcodeCity": "04155 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/Sze2OkyeB4OQVysw"
+        ],
+        "distance": 1.9276749821666088
+      },
+      {
+        "id": "IN0u5MIrWC8trlrMmzeQ",
+        "name": "Ferdinand-Lassalle-Brücke",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:00.191Z",
+        "location": [
+          51.3280901,
+          12.34705
+        ],
+        "postcode": "04229",
+        "city": "Leipzig",
+        "address": "04229 Leipzig (Schleußig)",
+        "postcodeCity": "04229 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/qXeqBgnEm1gAM1U5"
+        ],
+        "distance": 1.9781430761561856
+      },
+      {
+        "id": "TsFHyfPlQAx8xoP6CPxh",
+        "name": "Blochmannstraße",
+        "category": "meadow",
+        "creationDate": "2020-02-18T20:06:32.795Z",
+        "location": [
+          51.3621649,
+          12.375514
+        ],
+        "postcode": "04155",
+        "city": "Leipzig",
+        "address": "04155 Leipzig (Gohlis-Süd)",
+        "postcodeCity": "04155 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/dhChS1w2R3CCD68t"
+        ],
+        "distance": 2.368694886154754
+      },
+      {
+        "id": "dYYUCDzi7y5L0jBmUXCs",
+        "name": "Elsapark",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:08:59.066Z",
+        "location": [
+          51.3436899,
+          12.400094
+        ],
+        "postcode": "04315",
+        "city": "Leipzig",
+        "address": "04315 Leipzig (Neustadt-Neuschönefeld)",
+        "postcodeCity": "04315 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/6v8Iwn6x9kTvOT3XkZ4HNEqHC523/kC9p7vueltucZs87"
+        ],
+        "distance": 2.445704985347345
+      },
+      {
+        "id": "OoGNAgqTt2dyjTBWLLXs",
+        "name": "Industriestraße",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:00.280Z",
+        "location": [
+          51.3230583,
+          12.345902
+        ],
+        "postcode": "04229",
+        "city": "Leipzig",
+        "address": "04229 Leipzig (Schleußig)",
+        "postcodeCity": "04229 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/5OK3JNgu9t9SO4q5"
+        ],
+        "distance": 2.4799026905426773
+      },
+      {
+        "id": "hux5Jhneby6kcjIf3uay",
+        "name": "Friedenspark",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:08:58.490Z",
+        "location": [
+          51.3287607,
+          12.394901
+        ],
+        "postcode": "04103",
+        "city": "Leipzig",
+        "address": "04103 Leipzig (Zentrum-Südost)",
+        "postcodeCity": "04103 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/bceeExLFpnRXIZEJ"
+        ],
+        "distance": 2.5395823142981215
+      },
+      {
+        "id": "kMjplR4Er0fHGZ9bDN35",
+        "name": "Henriettenpark",
+        "category": "trail",
+        "creationDate": "2019-03-16T00:08:59.270Z",
+        "location": [
+          51.3343021,
+          12.328071
+        ],
+        "postcode": "04177",
+        "city": "Leipzig",
+        "address": "04177 Leipzig (Lindenau)",
+        "postcodeCity": "04177 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [],
+        "distance": 2.70085162814091
+      },
+      {
+        "id": "LWaNuHkD3v2HYIMf06nA",
+        "name": "Reudnitzer Park",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:08:59.436Z",
+        "location": [
+          51.335139,
+          12.402905
+        ],
+        "postcode": "04317",
+        "city": "Leipzig",
+        "address": "04317 Leipzig (Reudnitz-Thonberg)",
+        "postcodeCity": "04317 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/lZedxGrGCIWTo0ypvaf8Ods38X23/nbRvzZR8b49dOtXs"
+        ],
+        "distance": 2.7383095102907937
+      },
+      {
+        "id": "hv3oFLbNAukld4U5ciSU",
+        "name": "Neustädter Markt",
+        "category": "trail",
+        "creationDate": "2021-07-18T12:23:33.397Z",
+        "location": [
+          51.3473967,
+          12.404503
+        ],
+        "postcode": "04315",
+        "city": "Leipzig",
+        "address": "04315 Leipzig (Neustadt-Neuschönefeld)",
+        "postcodeCity": "04315 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [],
+        "distance": 2.8109800735995005
+      },
+      {
+        "id": "wL8AlCFl9zMqw73sKVLj",
+        "name": "Jahrtausendfeld",
+        "category": "meadow",
+        "creationDate": "2019-12-01T12:17:14.087Z",
+        "location": [
+          51.3307026,
+          12.328017
+        ],
+        "postcode": "04177",
+        "city": "Leipzig",
+        "address": "04177 Leipzig (Lindenau)",
+        "postcodeCity": "04177 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [],
+        "distance": 2.854972652804314
+      },
+      {
+        "id": "I1CVXaJ9G3e9Zyo7AJ4s",
+        "name": "Ludwig-Beck-Straße",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:01.784Z",
+        "location": [
+          51.367757,
+          12.360799
+        ],
+        "postcode": "04157",
+        "city": "Leipzig",
+        "address": "04157 Leipzig (Gohlis-Mitte)",
+        "postcodeCity": "04157 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/RkUpMfaB8roRI4Z2"
+        ],
+        "distance": 2.8899286141104215
+      },
+      {
+        "id": "pGrGAS57taOrg3dnY2Zs",
+        "name": "Schiebestraße/Bernburger Straße",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:01.489Z",
+        "location": [
+          51.3631895,
+          12.389687
+        ],
+        "postcode": "04129",
+        "city": "Leipzig",
+        "address": "04129 Leipzig (Eutritzsch)",
+        "postcodeCity": "04129 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/74pHQd3s4d6z3fL5"
+        ],
+        "distance": 2.9228574978054813
+      },
+      {
+        "id": "dCSpWCAhRhaoJdGYVP1z",
+        "name": "Mariannenpark",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:02.350Z",
+        "location": [
+          51.3569078,
+          12.404503
+        ],
+        "postcode": "04347",
+        "city": "Leipzig",
+        "address": "04347 Leipzig (Nordost)",
+        "postcodeCity": "04347 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/TQcye984rHO4J9Vm"
+        ],
+        "distance": 3.2111273520760792
+      },
+      {
+        "id": "SouKgWVV5M8jBu6vpOqq",
+        "name": "Möbiusplatz",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:04.301Z",
+        "location": [
+          51.3314322,
+          12.409685
+        ],
+        "postcode": "04317",
+        "city": "Leipzig",
+        "address": "04317 Leipzig (Reudnitz-Thonberg)",
+        "postcodeCity": "04317 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/igefOB04uYshJaf9"
+        ],
+        "distance": 3.3152388055143778
+      },
+      {
+        "id": "VYq2W69cA0gNQOfIYAd0",
+        "name": "Volkspark Kleinzschocher",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:00.574Z",
+        "location": [
+          51.3177207,
+          12.336729
+        ],
+        "postcode": "04229",
+        "city": "Leipzig",
+        "address": "04229 Leipzig (Schleußig)",
+        "postcodeCity": "04229 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/s0MsVep6WOR1D2K2"
+        ],
+        "distance": 3.329693094921541
+      },
+      {
+        "id": "q8v8fA5fdcvfUNf97WTP",
+        "name": "Slevogtstraße",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:01.953Z",
+        "location": [
+          51.3709787,
+          12.339562
+        ],
+        "postcode": "04159",
+        "city": "Leipzig",
+        "address": "04159 Leipzig",
+        "postcodeCity": "04159 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/jaueTQUdWU3LUXlJ"
+        ],
+        "distance": 3.6844223671333127
+      },
+      {
+        "id": "Oh50fJWxHbmglGGdDaiP",
+        "name": "Ehemaliger Debrahof/Max-Liebermann-Straße",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:00.910Z",
+        "location": [
+          51.3742992,
+          12.381415
+        ],
+        "postcode": "04158",
+        "city": "Leipzig",
+        "address": "04158 Leipzig (Eutritzsch)",
+        "postcodeCity": "04158 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/D7Jp62ZHZmUwNwZZ"
+        ],
+        "distance": 3.7786288609892247
+      },
+      {
+        "id": "LfoBzBhemwvp1SnQdq6n",
+        "name": "Volksgarten Sellerhausen",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:08:58.870Z",
+        "location": [
+          51.3496336,
+          12.4208
+        ],
+        "postcode": "04347",
+        "city": "Leipzig",
+        "address": "04347 Leipzig (Nordost)",
+        "postcodeCity": "04347 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [],
+        "distance": 3.9698176555727964
+      },
+      {
+        "id": "51hDXrWjxTzwzNsPoEWU",
+        "name": "Wilhelm-Külz-Park",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:08:59.647Z",
+        "location": [
+          51.3171414,
+          12.40622
+        ],
+        "postcode": "04299",
+        "city": "Leipzig",
+        "address": "04299 Leipzig (Stötteritz)",
+        "postcodeCity": "04299 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/Zp3mZAd7h7IonX4l"
+        ],
+        "distance": 3.9725635675924966
+      },
+      {
+        "id": "RyUc69PnWUmIuXrZtkuX",
+        "name": "Bautzner Straße",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:04.670Z",
+        "location": [
+          51.3582382,
+          12.420253
+        ],
+        "postcode": "04347",
+        "city": "Leipzig",
+        "address": "04347 Leipzig (Schönefeld-Abtnaundorf)",
+        "postcodeCity": "04347 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/p6IvXyJfr9Wl4gq9FWl83tzunZp1/erUAjVfQxUXsIXrb"
+        ],
+        "distance": 4.245544777460051
+      },
+      {
+        "id": "OzEBlRaabS3MNJ0I6Ktf",
+        "name": "Auensee",
+        "category": "meadow",
+        "creationDate": "2019-03-16T00:09:01.298Z",
+        "location": [
+          51.371381,
+          12.324305
+        ],
+        "postcode": "04159",
+        "city": "Leipzig",
+        "address": "04159 Leipzig (Wahren)",
+        "postcodeCity": "04159 Leipzig",
+        "country": "DE",
+        "countryLanguage": "de",
+        "images": [
+          "https://storage.dogorama-services.com/download/default/media/image/lZedxGrGCIWTo0ypvaf8Ods38X23/4QcGmQrjhUvpuKbz"
+        ],
+        "distance": 4.327957033901115
+      }
+    ],
+    "majorCity": "Leipzig"
+  }
