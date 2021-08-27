@@ -9,7 +9,8 @@
     background-color: #fff;
 
     padding: 0rem 6rem 10rem;
-    margin: 20px;
+    margin: auto;
+    margin-top: 2rem;
     border-radius: 25px;
     
     box-shadow: 0px 4px 6px 4px rgba(91,164,164,0.2);
@@ -21,12 +22,14 @@
     
     
     
-    @media only screen and (max-width:375px){
+    @media only screen and (max-width:450px){
         flex-direction:column;
         
         width: 200px;
-        padding-bottom: 1rem;
-        margin-bottom: 2rem;
+        padding: 0rem 6rem 15rem;
+        
+        margin: auto;
+        margin-top: 2rem;
     }
  img{
     width: 200px;

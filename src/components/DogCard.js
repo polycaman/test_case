@@ -4,6 +4,7 @@ const DogCard = (props) => {
 
     const defaultSrc = 'https://functions.dogorama-services.com/getStaticAsset?name=park_placeholder';
     const [element,setElement] = useState([]);
+    const [isRatingLoaded, setIsRatingLoaded] = useState(false);
     const buttonSetter=()=>{
         props.setButtonSelected(props.data)
     };
@@ -14,9 +15,11 @@ const DogCard = (props) => {
         .then(
           (result)=>{
             //console.log(result.parks[0]);
+            setIsRatingLoaded(true);
             setElement(result.parks[0]);
           },
           (error) => {
+            setIsRatingLoaded(false);
             console.log("Error while fetching a single element.");
           }
         )
@@ -31,9 +34,7 @@ const DogCard = (props) => {
                     {props.data.name}
                 </div>
                 <div className="cardAdditional">
-                    <div>{parseFloat(element.averageRating).toFixed(1)} out of 5 paws</div>
-                    
-
+                    {!isRatingLoaded?<div>Please wait...</div>:<div>{parseFloat(element.averageRating).toFixed(1)} out of 5 paws</div>}
                 </div>
                 <div className="cardButtonPart" onClick={buttonSetter}>
                     <span key={props.data.id}>More Info</span>

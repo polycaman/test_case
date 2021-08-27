@@ -1,8 +1,9 @@
 .header{
     width: 100vw;
-    height:7rem;
+    height: 4rem;
     background-image: url(../components/images/logo.png);
-    background-position: center center;
+    background-position: left center;
+    background-size: 35%;
     background-repeat: no-repeat;
     background-color: var(--primary-color);
 }
