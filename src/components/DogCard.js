@@ -13,7 +13,7 @@ const DogCard = (props) => {
         .then(res => res.json())
         .then(
           (result)=>{
-              console.log(result.parks[0]);
+            //console.log(result.parks[0]);
             setElement(result.parks[0]);
           },
           (error) => {
@@ -31,8 +31,8 @@ const DogCard = (props) => {
                     {props.data.name}
                 </div>
                 <div className="cardAdditional">
-                    <div>{parseFloat(element.averageRating).toFixed(2)} out of 5 paws</div>
-                    <div>{parseFloat(props.data.distance).toFixed(2)} km away</div>
+                    <div>{parseFloat(element.averageRating).toFixed(1)} out of 5 paws</div>
+                    
 
                 </div>
                 <div className="cardButtonPart" onClick={buttonSetter}>

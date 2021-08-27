@@ -23,7 +23,7 @@ function App() {
     .then(
       (result)=>{
         setIsLoaded(true);
-        console.log(result.parks);
+        //console.log(result.parks);
         setItems(result.parks);
       },
       (error) => {
